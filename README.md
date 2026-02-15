@@ -1,6 +1,6 @@
 # TuneDroid Releases
 
-This repository contains APK releases for TuneDroid - a YouTube audio extraction app for Android.
+This repository contains APK releases for TuneDroid - a audio extraction app for Android.
 
 ## Download
 
@@ -12,8 +12,8 @@ The source code is available at [llmspace/tunedroid](https://github.com/llmspace
 
 ## What is TuneDroid?
 
-TuneDroid is a YouTube audio extraction app for Android that lets you:
-- Download and convert audio to MP3 (128, 256, 320 kbps)
+TuneDroid is an audio extraction app for Android that lets you:
+- Download and convert audio from videos to MP3 (128, 256, 320 kbps)
 - Preserve original format (Opus, M4A, WebM)
 - GPL-3.0 licensed, zero tracking, no ads
 - Material You design with dark mode support
