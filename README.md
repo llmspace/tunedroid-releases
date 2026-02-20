@@ -1,6 +1,6 @@
 # TuneDroid Releases
 
-This repository contains APK releases for TuneDroid - a audio extraction app for Android.
+This repository contains APK releases for TuneDroid - an audio extraction app for Android.
 
 ## Download
 
